@@ -52,6 +52,5 @@ Exemplo de payload:
   "to": "destinatario@example.com",
   "subject": "Assunto do E-mail",
   "body": "Corpo do E-mail",
-  "sender": "remetente@example.com"
 }
 ```
