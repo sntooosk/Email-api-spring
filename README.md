@@ -55,10 +55,3 @@ Exemplo de payload:
   "sender": "remetente@example.com"
 }
 ```
-
-## Licença
-
-Este projeto é distribuído sob a licença [MIT](LICENSE).
-```
-
-Lembre-se de personalizar as informações, como URLs, credenciais de e-mail e outras configurações, conforme necessário para o seu projeto. Este é apenas um exemplo básico, e você pode expandi-lo de acordo com as necessidades específicas do seu projeto.

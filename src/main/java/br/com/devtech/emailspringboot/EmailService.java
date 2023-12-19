@@ -15,7 +15,7 @@ public class EmailService {
 
     public void sendEmail(Email email) {
         SimpleMailMessage message = new SimpleMailMessage();
-        message.setFrom("Juliano.santos88@etec.sp.gov.br");
+        message.setFrom("noreply@email.com");
         message.setTo(email.to());
         message.setSubject(email.subject());
         message.setText(email.body());
